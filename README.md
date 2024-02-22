@@ -11,6 +11,7 @@ My name is Boris Willekens, I'm 21 years old and currently studying at the Unive
 
 ## Connect with Me
 📫 Feel free to connect with me on LinkedIn -> https://www.linkedin.com/in/boriswillekens/ 
+
 💬 Do not hesitate to contact me!
 
 
