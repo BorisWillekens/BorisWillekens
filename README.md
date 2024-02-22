@@ -4,7 +4,9 @@ My name is Boris Willekens, I'm 21 years old and currently studying at the Unive
 
 ## About me:
 🎓 I started my master in marketing analytics in January 2024.
+
 🌱 I am currently advancing my skills in Python and R Studio.
+
 ⚡ From a young age I have learned to work hard and efficient!
 
 ## Connect with Me
